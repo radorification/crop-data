@@ -13,8 +13,8 @@ The applications uses Mantine-v7 library to display the tables from the .json fi
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/radorification/niti-crop-data
-    cd niti-crop-data
+    git clone https://github.com/radorification/crop-data
+    cd crop-data
     ```
 
 2. **Install Dependencies**
